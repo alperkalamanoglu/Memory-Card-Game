@@ -1,2 +1,5 @@
 # Memory-Card-Game
-A memory game project that you are playing against the computer. 
+A memory game project that you are playing against the computer. You can choose the difficulty before starting the game. The computer becomes smarter and the card table becomes bigger as the difficulty increases. 
+
+# How to play?
+When starting the game, you can choose the difficulty level. If you select easy, the cards will be 4x4 in size, and the computer's memory will be 2. For medium difficulty, the cards will be 6x6, and the computer's memory will be 6. If you choose hard, the cards will still be 6x6, but the computer's memory will be 16. The game is played against the computer. The player and the computer take turns opening two cards each. If two cards match, the player earns the right to open two more cards. The coordinates of the cards are entered in the format of "2,3" indicating the row number followed by the column number. There should be a comma between the numbers, and no spaces. The player who has opened the most cards when all cards are revealed wins the game.
